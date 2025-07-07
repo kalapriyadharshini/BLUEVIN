@@ -1,0 +1,21 @@
+/* Global font for the body */
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Use Lato for headings and key components */
+h1, h2, h3, .navbar, .nav-link, .navbar-brand, button {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+}
+
+/* Optional: fine-tune search bar and cart/account text */
+input, .search-bar, .wishlist, .account, .cart {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+

@@ -1,0 +1,12 @@
+.bg-light-blue {
+  background-color: #cbe3f6  !important;
+}
+.ultra-light-placeholder::placeholder {
+color: #cccccc;/* Very light gray */
+  opacity: 1;
+}
+@media (min-width: 1440px) {
+  .top-nav-hover:hover {
+    color: #4ba2f2 !important; /* light blue */
+  }
+}
